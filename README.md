@@ -29,4 +29,5 @@ After termination, the program will display the average of the entered numbers.
 Ensure the program handles input validation and edge cases effectively.
 For further details, refer to the comments within the while.py file.
 
-:people_hugging:	Feel free to explore and modify the program as needed!
+# :busts_in_silhouette:Contributing:busts_in_silhouette:	
+Contributions are welcome! If you have any improvements or additional examples to add, please feel free to submit a pull request.
