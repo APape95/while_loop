@@ -27,6 +27,10 @@ Calculate the average of all numbers entered, excluding "-1".
 
 :crossed_flags:	After termination, the program will display the average of the entered numbers.
 
+## Example
+
+![image](https://github.com/APape95/while_loop/assets/158771090/8722b218-51ed-4c79-9f4a-4529391bcc6d)
+
 
 ## Additional Notes:
 Ensure the program handles input validation and edge cases effectively.
